@@ -4,10 +4,13 @@
     <extensionMap>
       <mapping pattern="entrada" type="PLAIN_TEXT" />
       <mapping pattern="L4-1.py" type="PLAIN_TEXT" />
+      <mapping pattern="imbd-weights" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="marvel social net" type="PLAIN_TEXT" />
       <mapping pattern="sept1_A.py" type="PLAIN_TEXT" />
       <mapping pattern="L4A_16.py" type="PLAIN_TEXT" />
       <mapping pattern="L4-1" type="PLAIN_TEXT" />
+      <mapping pattern="imdb-1" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
